@@ -12,7 +12,7 @@ The workflow consists of:
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 * `Research Proposal (1).docx` - The foundational research framework, objectives, and methodology for this HCI study.
 * `electronics-11-01579-with-cover.pdf` - Core reference literature utilized in the research scaffolding.
@@ -23,7 +23,7 @@ The workflow consists of:
 
 ---
 
-## 🛠️ Methodology and Workflow
+## Methodology and Workflow
 
 ### 1. Literature Review & Matrix Extraction
 We compiled papers from major academic repositories focusing on conversational AI and HCI. Key factors influencing user experience, trust, error rates, and engagement were systematically logged into the **Literature Matrix**.
@@ -44,7 +44,7 @@ The feature importance metrics from the highest-accuracy model were used to isol
 
 ---
 
-## 🚀 How to Use This Repository
+## How to Use This Repository
 
 ### Prerequisites
 To run the notebooks locally, ensure you have Python installed along with the following libraries:
