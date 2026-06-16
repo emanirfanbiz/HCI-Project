@@ -2,7 +2,7 @@
 
 This repository contains the complete workflow for an HCI (Human-Computer Interaction) research project aimed at understanding which target variables most significantly affect the quality and outcomes of human-chatbot interactions. By compiling existing academic literature, binary-coding qualitative factors, and evaluating multiple machine learning models, this project identifies the strongest predictors of successful human-AI engagement.
 
-## 📌 Project Overview
+## Project Overview
 Human-Chatbot Interaction is highly dependent on a variety of design, psychological, and contextual factors. This project systematic reviews existing literature to extract these variables, preprocesses the data through binary encoding, and utilizes predictive modeling to determine which specific variables yield the highest predictive accuracy regarding interaction success.
 
 The workflow consists of:
@@ -23,7 +23,7 @@ The workflow consists of:
 
 ---
 
-## 🛠️ Methodology & Workflow
+## 🛠️ Methodology and Workflow
 
 ### 1. Literature Review & Matrix Extraction
 We compiled papers from major academic repositories focusing on conversational AI and HCI. Key factors influencing user experience, trust, error rates, and engagement were systematically logged into the **Literature Matrix**.
