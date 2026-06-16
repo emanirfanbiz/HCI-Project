@@ -42,7 +42,10 @@ We trained multiple classification models to determine which setup best predicts
 
 The feature importance metrics from the highest-accuracy model were used to isolate the core target variables that influence human-chatbot dynamics the most.
 
----
+## Key Findings
+
+* **Highest Performing Model:** Random Forest achieved the highest classification accuracy.
+* **Most Impactful Variable:** The model's feature importance analysis demonstrated that User-Satisfaction is the most critical driver influencing human-chatbot interaction quality.
 
 ## How to Use This Repository
 
